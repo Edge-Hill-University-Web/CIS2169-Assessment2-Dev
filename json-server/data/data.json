@@ -1,0 +1,20 @@
+{
+
+  "trainers": [
+    {
+        "id" : "001",
+        "name": "Dan",
+        "route": "4"
+    },
+    {
+        "id" : "002",
+        "name": "Harley",
+        "route": "3"
+    },
+    {
+      "id" : "003",
+      "name": "Leia",
+      "route": "3"
+    }
+  ]
+}
