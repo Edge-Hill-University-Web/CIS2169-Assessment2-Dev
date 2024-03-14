@@ -42,7 +42,7 @@ More information about `JSON-Server` can be found [here](https://github.com/typi
 If you would like to see an example of how this can be used I suggest taking a look at [Pokemon REST API](https://github.com/Edge-Hill-University-Web/Pokemon-Json-Server) GitHub repository.
 
 ### Launching JSON Server
-Ensure you are the root directory of the workspace (`/workspaces/`) and run the following command in a **new** bash terminal (within the container!) to launch **JSON Server**:
+Ensure you are in the correct directory within the workspace (`/workspaces/CIS2169-Assessment2-Dev/`) and run the following command in a **new** bash terminal (within the container!) to launch **JSON Server**:
 
 ```bash
 json-server  -w json-server/data/data.json --routes json-server/data/routes/routes.json --port 80
